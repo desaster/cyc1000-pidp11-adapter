@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pidp11_cyc1000_adapter)(type KiCad)(uri ${KIPRJMOD}/library/footprints/pidp11_cyc1000_adapter.pretty)(options "")(descr ""))
+)
