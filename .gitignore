@@ -5,7 +5,9 @@
 # backup files
 *.bak
 *.bck
+*.kicad_pcb-bak
 #
 fp-info-cache
 *.7z
 *.zip
+output
