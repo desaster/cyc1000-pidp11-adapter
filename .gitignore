@@ -6,6 +6,7 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
+*.sch-bak
 #
 fp-info-cache
 *.7z
